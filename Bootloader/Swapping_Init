@@ -1,8 +1,0 @@
- What is Bank Swapping:
-Bank Swapping is a memory-switching technique that uses each bank to
-store a different version of SW. It is useful for increasing the amount of
-usable memory beyond the amount directly addressable by processor
-instructions. It can be used to configure a system differently at
-different times; for example, if one version is outdated and needs to be
-updated, we can switch to the other bank, which supposedly has the
-updated SW version.
