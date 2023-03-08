@@ -1,0 +1,18 @@
+This unit is put in the car (target device) also, its
+main function is to keep checking if there is any
+update available on the server, when there is
+an available update it should be downloaded as
+a hex file and stored in a puffer then sent to
+the main target MCU through CAN_BUS, the
+MCU used to implement this concept is known
+as Node_MCU.
+
+To implement Node_MCU concept we are using
+ESP_32 as it is open-source firmware and
+development kit that is used in prototyping and
+building IOT products, it also has built in WiFi
+module which allow it to keep connected to the
+internet without any additional peripherals to
+keep checking the server, it can connect to the
+cloud using HTTP and MQTT protocols, it also
+supports 2 wire interfacing (Can Protocol).
