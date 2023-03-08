@@ -1,0 +1,3 @@
+To make the boot-loader able to flash any new code, flashing mechanism
+should be obeyed, first of all the flash memory should be erased, then
+write the new code (flashing), then read the code during excution.
