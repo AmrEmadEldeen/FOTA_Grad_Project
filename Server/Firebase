@@ -1,5 +1,9 @@
-Cloud server will be used as a data base to keep the hex file of the new code, telematics unit will keep checking for updates on the server every now and then.
+Cloud server will be used as a data base to keep the hex file of the new code, telematics unit will keep checking 
+for updates on the server every now and then.
 
-Firebase is a free, open-source platform provided by google it is efficient to be used in small and medium scaled projects like ours as it is easy and has
-a real time database, it also lets you automatically run back-end code in response to event triggers by fire-base features and HTTPS requests. It stores code in Google cloud and run in a managed environment.
-Hex file of the new code will be uploaded to the fire-base through a GUI, this GUI will be simple and it doesn’t matter which programming language will be used to write it as all its function is to get the hex file and upload it to the fire_base, then the fire_base will store it in its database.
+Firebase is a free, open-source platform provided by google it is efficient to be used in small and medium scaled projects 
+like ours as it is easy and has a real time database, it also lets you automatically run back-end code in response 
+to event triggers by fire-base features and HTTPS requests. It stores code in Google cloud and run in a managed environment.
+Hex file of the new code will be uploaded to the fire-base through a GUI, this GUI will be simple and it doesn’t matter which 
+programming language will be used to write it as all its function is to get the hex file and upload it to the fire_base, then
+the fire_base will store it in its database.
