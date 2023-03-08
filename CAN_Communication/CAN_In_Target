@@ -1,0 +1,3 @@
+We can summarize the work done in CAN in two major points:
+1. Loop back mode test for STM32: This mode is provided for self-test functions.
+2. Normal Mode test: This mode is for communication between STM32 and the telematics units (ESP32)
