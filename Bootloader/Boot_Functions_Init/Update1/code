@@ -1,0 +1,11 @@
+bootloader_handle_gethelp_cmd
+bootloader_handle_getver_cmd
+bootloader_handle_go_cmd
+bootloader_handle_flash_erase_cmd
+bootloader_handle_mem_write_cmd
+bootloader_can_read_data
+bootloader_can_write_data
+get_app_version
+execute_flash_erase
+execute_mem_write
+UpdateAPP
